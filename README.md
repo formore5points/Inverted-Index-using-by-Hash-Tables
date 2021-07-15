@@ -74,3 +74,5 @@ d(k) = 7 - k mod 7 = 4.	The 1st lookup index: 5
 The 2nd lookup index: 5+ 1*4 = 9 % 13 = 9
 The 3rd lookup index: 5+2*4 = 13 % 13 = 0  
 …
+# Results
+![TABLE](https://user-images.githubusercontent.com/50989796/125798480-8857494a-3e06-4aff-95cc-79c29b29c7e9.JPG)
